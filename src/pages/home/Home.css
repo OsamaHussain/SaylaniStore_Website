@@ -1,0 +1,23 @@
+#start-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+}
+.start-page-text h4 {
+    color: green !important;
+    font-size: 25px;
+    text-align: center;
+    font-weight: 700;
+}
+.start-page-text p {
+    color: blue;
+    font: 12px;
+    font-weight: 700;
+    text-align: center;
+
+}
+.start-page-button {
+    display:flex;
+    justify-content: center;
+}
